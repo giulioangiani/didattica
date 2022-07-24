@@ -1,0 +1,12 @@
+Modena
+-Mantova,50Km
+-Parma,60Km
+Mantova
+-Modena,20Km
+Parma
+-Modena,100Km
+-Bologna,250Km
+Roma
+-Bologna,280Km
+-Modena,300Km
+-Firenze,200Km

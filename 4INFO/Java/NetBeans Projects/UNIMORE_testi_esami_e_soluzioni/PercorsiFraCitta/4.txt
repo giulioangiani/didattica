@@ -1,0 +1,8 @@
+Roma Modena 300.0
+Roma Bologna 280.0
+Parma Bologna 250.0
+Roma Firenze 200.0
+Parma Modena 100.0
+Modena Parma 60.0
+Modena Mantova 50.0
+Mantova Modena 20.0

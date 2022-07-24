@@ -1,0 +1,2 @@
+Mario,Rossi,12345678901,Rossi s.p.a.,Reggio Emilia,1233567.55,Informatica-Elettronica-Sistemi di Antifurto
+Franca,Bianchi,98765432123,Bianchi s.r.l.,Modena,872652.91,Arredamento-Architettura

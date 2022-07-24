@@ -1,0 +1,11 @@
+Dato il file csv allegato che contiene dati di dipendenti di una azienda definire:
+- la classe astratta Dipendente con i metodi e gli attributi utili a memorizzare i dati presenti sul file
+- Dipendente contenga il metodo astratto calcolaStipendio()
+- le classi Impiegato, Amministratore e Tecnico che estendono e completano Dipendente con la seguente logica
+  - Lo stipendio di un Impiegato è calcolato aumentando lo stipendio base di 100 euro per ogni anno di lavoro
+  - Lo stipendio di un Tecnico è calcolato aumentando lo stipendio base di 500 euro per ogni anno di lavoro
+  - Lo stipendio di un Amministratore è calcolato aumentando lo stipendio base di 1000 euro per ogni anno di lavoro
+- Implementare un Main con
+  - una procedura che legge il file e crea gli oggetti ognuno con la classe corretta
+  - una struttura dati per contenere tali oggetti
+  - una procedura per la stampa dello stipendio di tutti i dipendenti e loro dati  

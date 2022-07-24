@@ -1,0 +1,24 @@
+Progettare e realizzare la classe java IndirizzoIP tale che:
+- esista un costruttore IndirizzoIP(int, int, int, int) dove i parametri sono interi compresi fra 0 e 255 e indicano i 4 ottetti dell'indirizzo
+- esista un costruttore IndirizzoIP(int, int, int, int, int) dove i parametri sono interi compresi fra 0 e 255 e indicano i 4 ottetti dell'indirizzo e la maschera di rete
+    - i costruttori restituiscono eccezione se i valori non sono validi
+
+Nel caso del primo costruttore si intende un indirizzo Classful
+Nel caso del secondo costruttore si intende un indirizzo CIDR
+
+Siano presenti i metodi
+- getIndirizzoRete() -> IndirizzoIP
+- getBroadCast() -> IndirizzoIP
+- getNetMask() -> IndirizzoIP
+- isIndirizzoRete() -> boolean
+- isBroadCast() -> boolean
+- isNetMask() -> boolean
+- getAmpiezzaRete() -> int
+- getHostIndirizzabili() -> int
+- getTipoClasse() -> char /* se indirizzo è in formato CIDR restituisce stringa vuota */
+- toBinary() -> String /* restituisce la stampa in formato binario del solo indirizzo IP, senza maschera di rete */
+- toString() -> String /* stampa l'indirizzo nel formato CIDR */
+
+
+nel Main testare tutti i metodi e aggiungere la funzione
+- sonoNellaStessaRete(IndirizzoIP, IndirizzoIP) -> boolean

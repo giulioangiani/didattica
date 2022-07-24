@@ -1,0 +1,19 @@
+[IMPIEGATO]Zemeckis Robert
+ mansione  : segreteria
+ stipendio : € 9000.0
+[IMPIEGATO]Bullock Sandra
+ mansione  : gestionale
+ stipendio : € 8200.0
+[DIRIGENTE]Cruise Tom Data:1/6/2005
+ mansione  : commerciale
+ stipendio : € 10000.0
+[DIRIGENTE]Close Glenn Data:15/2/2003
+ mansione  : finanziario
+ stipendio : € 10000.0
+[IMPIEGATO]Giallini Luca
+ mansione  : Revisore dei conti
+ stipendio : € 8600.0
+[DIRIGENTE]Falco Francesca Data:1/1/2002
+ mansione  : Dirigente settore relazioni pubblico
+ stipendio : € 10000.0
+[[IMPIEGATO]Zemeckis Robert, [IMPIEGATO]Bullock Sandra, [DIRIGENTE]Cruise Tom Data:1/6/2005, [DIRIGENTE]Close Glenn Data:15/2/2003, [IMPIEGATO]Giallini Luca, [DIRIGENTE]Falco Francesca Data:1/1/2002]

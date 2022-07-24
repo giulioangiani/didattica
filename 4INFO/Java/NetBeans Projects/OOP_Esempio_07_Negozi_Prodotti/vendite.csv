@@ -1,0 +1,10 @@
+negozio,codiceprodotto,descrizione,prezzo,venduto
+milano,001,acquaminerale,1.50,128
+torino,002,aperitivo,11.50,11
+roma,003,vino,9.99,23
+roma,004,cocacola,2.49,187
+milano,005,fanta,2.49,198
+torino,006,sprite,2.39,0
+catania,005,fanta,2.49,198
+perugia,003,vino,9.99,23
+perugia,004,cocacola,2.49,187

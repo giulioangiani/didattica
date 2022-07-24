@@ -1,0 +1,4 @@
+pesce	3
+cane	3
+gatto	1
+aquila	1

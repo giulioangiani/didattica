@@ -1,0 +1,1 @@
+Nessun gruppo ha sequenze che formano una matrice quadrata e identica

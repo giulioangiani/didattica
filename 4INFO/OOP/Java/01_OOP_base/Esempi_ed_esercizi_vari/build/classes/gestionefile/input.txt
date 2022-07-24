@@ -1,0 +1,6 @@
+gatto
+cane
+pesce
+pesce
+cane
+cane

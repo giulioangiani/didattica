@@ -1,0 +1,4 @@
+con partenza da Parma: maxdistanza Bologna : 250.0
+con partenza da Modena: maxdistanza Parma : 60.0
+con partenza da Roma: maxdistanza Modena : 300.0
+con partenza da Mantova: maxdistanza Modena : 20.0

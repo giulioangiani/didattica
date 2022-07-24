@@ -1,0 +1,18 @@
+[IMPIEGATO]Zemeckis Robert
+ mansione  : segreteria
+ stipendio : € 3100.0
+[IMPIEGATO]Bullock Sandra
+ mansione  : gestionale
+ stipendio : € 2900.0
+[AMMINISTRATORE]Cruise Tom - Data assunzione :1/6/2005
+ mansione  : commerciale
+ stipendio : € 16800.0
+[AMMINISTRATORE]Close Glenn - Data assunzione :15/2/2003
+ mansione  : finanziario
+ stipendio : € 19098.0
+[TECNICO]Costner Kevin
+ mansione  : informatico
+ stipendio : € 8000.0
+[TECNICO]Anistone Jennifer
+ mansione  : sistemista
+ stipendio : € 7000.0

@@ -1,0 +1,4 @@
+Per ogni gruppo, stampare i numeri associati senza duplicati :
+A [1, 2, 3]
+B [4, 5]
+K [1, 2]
