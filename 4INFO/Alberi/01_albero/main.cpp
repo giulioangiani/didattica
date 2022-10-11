@@ -1,6 +1,6 @@
 /*
- * Albero binario generico 
- * 
+ * Albero binario generico
+ *
  * */
 #include <iostream>
 
@@ -65,7 +65,7 @@ int main()
 
 	// struttura
 	cout << "##### ALBERO BINARIO GENERICO #####\n\n\n";
-	
+
 	cout << "           " << root->content << endl;
 	cout << "    " << root->sx->content << "-----+-----" << root->dx->content << endl;
 
@@ -75,7 +75,7 @@ int main()
 	cout << "           \n\nVisita generica: ";
 	// visita
 	visita(root);
-	 
+
     return 0;
 }
 

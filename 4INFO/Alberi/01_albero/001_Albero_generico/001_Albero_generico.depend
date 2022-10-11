@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1664117328 source:/home/giulio/Documenti/Didattica/Scuola/Didattica/Github_repo/didattica/4INFO/Alberi/01_albero/001_Albero_generico/main.cpp
+	<iostream>
+	<list>
+
